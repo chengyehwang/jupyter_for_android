@@ -1,0 +1,6 @@
+export ANDROIDSDK="$HOME/Documents/android-sdk-27"
+export ANDROIDNDK="$HOME/Documents/android-ndk-r19b"
+export ANDROIDAPI="27"  # Target API version of your application
+export NDKAPI="21"  # Minimum supported API version of your application
+export ANDROIDNDKVER="r10e"  # Version of the NDK you installed
+
